@@ -2,7 +2,7 @@ package br.aeso.principal;
 
 import br.aeso.excecoes.FornecedorJaCadastradoException;
 import br.aeso.fornecedor.Fornecedor;
-import fachada.Fachada;
+import br.aeso.fachada.Fachada;;
 
 public class TelaCadastro {
 
